@@ -39,7 +39,8 @@ Explain the working of below pig script commands with an example:
     Syntax:
     Relation_name2=FILTER Relation_name1 BY (condition);
 
-8. DESCRIBE:
+8. DESCRIBE:
+
     Describe command help us to view schema of the relation.
     Syntax:
     Describe Relation_name
